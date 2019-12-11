@@ -13,12 +13,12 @@ satélite multiespectral georreferenciada em formato GeoTIFF obtida pelo micross
 
 Ela possui as seguintes bandas:
 
-ÍNDICE       BANDA       ALCANCE ESPECTRAL (nm)
-===============================================
-1            Blue        455 - 515
-2            Green       500 - 590
-3            Red         590 - 670
-4            NIR         780 - 860
+| ÍNDICE  |  BANDA  | ALCANCE ESPECTRAL (nm) |
+| ------- | ------- |----------------------- |
+|    1    | Blue    | 455 - 515              |
+|    2    | Green   | 500 - 590              |
+|    3    | Red     | 590 - 670              |
+|    4    | NIR     | 780 - 860              |
 
 Sua missão é calcular o seguinte:
 
