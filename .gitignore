@@ -1,20 +1,4 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
-
-@mateus-pd
-2.9k
-92.7k47.7kgithub/gitignore
- Code Pull requests 123 Actions Projects 0 Security Insights
-gitignore/Python.gitignore
-@mrg0029 mrg0029 wtf is a pyflow (#3242)
-db0ef78 23 days ago
-@arcresu@shiftkey@Lucretiel@Harrison-G@jwg4@GabrielC101@Metallicow@misaelnieto@pmsosa@svkampen@vltr@thedrow@matheussl@hugovk@ghisvail@EvandroLG@DSIW@amigcamel@toanant@2Cubed@brettcannon@weinihou@Visgean@nvie@skuschel@sigo
-129 lines (105 sloc)  1.76 KB
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
