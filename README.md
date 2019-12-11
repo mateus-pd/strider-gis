@@ -34,8 +34,8 @@ e do nome do endpoint.
 O servidor que serve o endpoint deve ser feito em Python/Flask.
 
 # Acesso a Aplicação
-IP: http://18.228.244.51/
-DNS: http://strider.mbhosts.com/
+* IP: http://18.228.244.51/
+* DNS: http://strider.mbhosts.com/
 
 ## Especificação da API
 
